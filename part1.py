@@ -1,0 +1,2 @@
+def funct(x):
+    pass
