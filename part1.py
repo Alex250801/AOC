@@ -112,6 +112,8 @@ with open("input.txt", "r") as file:
             sum += 52
     print(sum)
 
+    # de refacut cu hash
+
 
                   
         
